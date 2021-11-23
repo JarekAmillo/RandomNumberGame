@@ -20,7 +20,6 @@ namespace Tydz3ZadDom2_
             var number = rnd.Next(0, 100);
             bool game = true;
           
-
             try
             {
                 while (game)
